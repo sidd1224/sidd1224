@@ -18,14 +18,3 @@
 ---
 
 
-## 🤝 Connect With Me
-
-📧 Email: siddhu12smp@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/rao-siddharth-shankar-16a44425a
-
-💻 GitHub:
-github.com/sidd1224    
-
-"IS THIS CORRECT I AM PUT ALL THESE THINGS IN A README FILE HOW TO RUN THIS"
