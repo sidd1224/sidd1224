@@ -1,92 +1,24 @@
 <h1 align="center">Hi 👋, I'm Rao Siddharth Shankar</h1>
 <h3 align="center">Aspiring Java Backend Engineer | Spring Boot Developer | Full-Stack Enthusiast</h3>
 
-## 🚀 About Me
+# 💫 About Me:
+🎓 B.E. Computer Science & Engineering (Data Science)<br><br>☕ Passionate about Java Backend Development and System Design<br><br>🌱 Currently exploring Spring Boot, Docker, Cloud Technologies, and Scalable Architectures<br><br>💻 Building Full-Stack Applications with Java, Python, JavaScript, and Modern Web Technologies<br><br>🚀 Enthusiastic about creating secure, efficient, and high-performance software solutions
 
-🎓 B.E. Computer Science & Engineering (Data Science)
 
-☕ Passionate about Java Backend Development and System Design
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rao-siddharth-shankar-16a44425a  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhu12smp@gmail.com) 
 
-🌱 Currently exploring Spring Boot, Docker, Cloud Technologies, and Scalable Architectures
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sidd1224&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sidd1224&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sidd1224&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💻 Building Full-Stack Applications with Java, Python, JavaScript, and Modern Web Technologies
+---
+[![](https://komarev.com/ghpvc/?username=sidd1224&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Enthusiastic about creating secure, efficient, and high-performance software solutions
-
-📍 Karnataka, India
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-☕ Java
-🐍 Python
-🟨 JavaScript
-🌐 HTML5
-🎨 CSS3
-
-### Backend Development
-Spring Boot
-Node.js
-Express.js
-Django
-REST APIs
-
-### Frontend Development
-React.js
-JavaScript
-HTML/CSS
-
-### Databases
-MySQL
-PostgreSQL
-MongoDB
-
-### Tools & Cloud
-Git
-GitHub
-Docker
-GCP
-Firebase
-
-### Core Concepts
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Design
-RESTful API Development 
-
-## 🎯 Currently Working On
-
-🔹 Spring Boot Backend Development
-
-🔹 REST API Design & Development
-
-🔹 Docker Containerization
-
-🔹 System Design Fundamentals
-
-🔹 Scalable Web Applications 
-
-## 🌟 Featured Projects
-
-### 🗳️ iBallot
-A decentralized e-voting platform with DigiLocker authentication, AES-256 encryption, and blockchain integration.
-
-### 🧪 Virtual Laboratory Platform
-Interactive STEM learning platform with real-time simulations built using Django and JavaScript.
-
-### 🌍 Travel Journal Platform
-A multimedia travel logging application with geolocation support and interactive maps.
-
-### 🤖 AI SEO Agent
-SEO optimization platform powered by FastAPI and Google Gemini.  
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd1224&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd1224&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sidd1224)   
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 ## 🤝 Connect With Me
 
